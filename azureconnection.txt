@@ -1,0 +1,1 @@
+Server=tcp:stocks.database.windows.net,1433;Initial Catalog=stocksdb;Persist Security Info=False;User ID=sivasaisambela;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
